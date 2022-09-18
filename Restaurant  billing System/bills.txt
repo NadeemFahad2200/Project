@@ -1,0 +1,11 @@
+27-07-22   16:33:00
+order number : 1
+
+
+ITEM                    QUANTITY                AMOUNT                        TOTAL
+Fries                   3                         Rs 50                       Rs 150
+
+Cost of Meal : Rs 150.00
+Service : Rs 1.52
+Tax : Rs 7.50
+Toatal : Rs 159.0151515151515
